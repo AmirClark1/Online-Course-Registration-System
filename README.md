@@ -5,6 +5,13 @@ This project is an online course registration system designed to support student
 
 The project demonstrates software requirements planning, system design, database-backed application logic, and documentation practices.
 
+## Project Scope
+
+This project focuses on the design phase of the software development lifecycle, including requirements gathering, system modeling, and documentation.
+
+No full implementation is included.
+
+
 ## Features
 - Student registration workflow
 - Course browsing
