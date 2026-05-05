@@ -1,31 +1,50 @@
-# Online-Course-Registration-System
-Capstone Project — Software Requirements Specification (SRS) and System Design for an Online Course Registration System
-# Online Course Registration System (OCRS)
+# Online Course Registration System
 
-## Project Type
-Capstone Project – CST 499 Computer Software Technology
+## Overview
+This project is an online course registration system designed to support student enrollment, course browsing, and basic academic registration workflows.
+
+The project demonstrates software requirements planning, system design, database-backed application logic, and documentation practices.
+
+## Features
+- Student registration workflow
+- Course browsing
+- Course enrollment
+- User login/authentication
+- Database-backed records
+- Supporting SRS and system design documentation
+
+## Tech Stack
+- PHP
+- MySQL
+- HTML/CSS
+- SQL
+
+## Project Purpose
+This project was developed as part of a software engineering capstone to demonstrate full SDLC planning, requirements modeling, system design, and implementation.
+
+## Learning Outcomes
+- Created a requirements-driven web application
+- Designed system workflows and user interactions
+- Practiced database-backed application development
+- Applied secure coding concepts such as authentication and input handling
+- Produced supporting software documentation
+
+## Setup Instructions
+To run locally on a personal machine:
+
+1. Install XAMPP or MAMP
+2. Start Apache and MySQL
+3. Place project files inside:
+   - `htdocs` for XAMPP
+   - `MAMP/htdocs` for MAMP
+4. Create a MySQL database
+5. Import or recreate the database schema
+6. Update database connection settings if needed
+7. Open the project in your browser using localhost
+
+## Notes
+This repository is intended for portfolio and demonstration purposes. It highlights requirements analysis, application design, and web application development.
 
 ## Author
-Amir Clark
-
-## Project Overview
-This project involves the design and development of an Online Course Registration System. The system allows users to register accounts, log in securely, browse semester-based courses, enroll in available courses, join waitlists when courses are full, and receive notifications when seats become available.
-
-## Current Stage
-📄 Software Requirements Specification (SRS) Document
-
-## Features Defined in SRS
-- User registration and profile creation
-- Secure login authentication
-- Course listings by semester (Spring/Summer/Fall)
-- Course enrollment with capacity limits
-- Waitlist management
-- Enrollment cancellation and automated notifications
-
-## Technologies (Planned)
-- Web-based system
-- Database backend
-- Secure authentication
-
-## Repository Purpose
-This repository documents the system design and development progress for the capstone project.
+Amir Clark  
+https://www.linkedin.com/in/amir-clark-a7127731b
